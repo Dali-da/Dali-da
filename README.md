@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dali-da
 - 👀 I’m interested in arts programming decoraticg
-- 🌱 I’m currently learning fronend cpp python 
+- 🌱 I’m currently learning fronend cpp python and i have learned c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me send me email
 - 😄 Pronouns: she
